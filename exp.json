@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "amount": 8000.0,
+        "catogery": "Food",
+        "note": "Buy a burger",
+        "day": "2026-10-16"
+    },
+    {
+        "id": 2,
+        "amount": 600.0,
+        "catogery": "Food",
+        "note": "buy shawarma",
+        "day": "2026-10-16"
+    }
+]
